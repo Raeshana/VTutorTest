@@ -12,7 +12,6 @@ namespace ReadyPlayerMe.Samples.WebGLSample
         private string avatarUrl = "";
         private WebFrameHandler webFrameHandler;
 
-
         private void Start()
         {
             webFrameHandler = GetComponent<WebFrameHandler>();
