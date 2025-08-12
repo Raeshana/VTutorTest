@@ -20,7 +20,7 @@ Once the project is loaded in Unity:
 <img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/e4523b00-8764-4b86-8470-417ac1fd0696" />
 
 
-## 4. Locating the Frontend Files
+## 4. Locate the Frontend Files
 1. Navigate to `TestAvatar/index.html`.  
 2. **Animation button names** can be found under the comment:  
    `<!-- Animation buttons -->`  
